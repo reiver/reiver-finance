@@ -1,0 +1,39 @@
+wiki/1
+
+§ Financial Bond
+
+⸺ by Charles Iliya Krempeaux
+
+A **Financial Bond** is a specific type of agreement between an **issuer** (also called a **borrower** and **debtor**) and a **holder** (also called a **creditor** and **lender** ).
+The **issuer** borrows money from the **holder**.
+The amount of money borrowed is called the **principal**.
+The **issuer** agrees to pay back the **principal** to the **holder** after a pre-agreed length of time.
+The **issuer** also agrees to pay the **holder** extra money on some pre-agreed schedule.
+
+When the context is obvious, the phrase **financial bond** is often shortened to just **bond**.
+
+§§ Example
+
+Let's use an example to try to make this clearer.
+
+Let's say you want to //borrow// $100,000.
+And you will pay back the $100,000 1 year after you borrow it.
+And you don't have any friends or family who will lend you the money — so you have to borrow it from a stranger.
+Why would a stranger lend you $100,000‽ — well, because you will pay the lender (who is a stranger) more than just the $100,000 they lent you.
+Let's say that, after the 1 year, you agree to pay the lender back the $100,000 they lent you, plus an extra $7,000.
+
+That $100,000 that the //lender// lends the //borrower// is called the **principal**.
+
+That extra $7,000 that the //borrower// pays the //lender// to incentivize the //lender// to lend them the money is called the **yield**.
+
+The 1 year length of time is called the **maturity date**.
+
+That whole agreement, that includes the **maturity date**, the **pricipal** amount, and the **yield** amount and schedule, is called a **financial bond**.
+
+§§ Features
+
+So, the 3 important feature of any bond is:
+
+• the **principal**,
+• the **yield**, and
+• the **maturity date**.
