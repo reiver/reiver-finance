@@ -1,0 +1,39 @@
+wiki/1
+
+§ Strip Bond
+
+⸺ by Charles Iliya Krempeaux
+
+A **strip bond** is a [[financial-bond]] where the **yield** is stripped away (and you don't get it), but you buy the [[financial-bond]] for less than its **principal** amount.
+
+§§ Example
+
+Let's use an example to try to make this clearer.
+
+Let's say that you are the **holder** of a [[financial-bond]] that you got 1 year ago.
+That you **lent** the **issuer** of the [[financial-bond]] $10,000,000.
+That the **maturity date** 2 years from now (of which 1 year has already passed).
+And that after 2 years, in addition to being paid back all of the $10,000,000 you lent them (i.e., the **principal**) that you will also be paid an extra $1,400,000 (i.e., the **yield**).
+But 1 year is a long time.
+What you want your money now — not just your **principal** but also your **yield**.
+Well, the **issuer** isn't going to give it to you — you alredy agreed to wait 2 years.
+(And the **issuer** already has other plans for the money, and has put it into use.)
+So, how do you get your money now?
+
+Here is a way.
+Since you have already waited 1 year, after 2 years, the [[financial-bond]] will pay you back your **principal** plus your **yield**.
+So, it will pay you back —
+
+$11,400,000 = $10,000,000 + $1,400,000
+
+What if you let someone else buy your [[financial-bond]] from you‽
+What if you sold it for $10,600,000‽
+
+You would get your $10,000,000 (i.e., your **principal**) back, plus you would also get an extra $600,000 (i.e., part of the **yield**).
+You now have a lot of money again, to do with as you please.
+
+If the buyer of this is OK with leaving their money in it for 1 years, they will be paid the original $11,400,000 that you were supposed to have been paid.
+Which means they get back the $10,600,000 they bought it from you from, plus another $800,000.
+That is a better performance than them buying the [[financial-bond]] themselves.
+
+In this example, the thing that the buyer bought from you is a called a **strip bond**.
